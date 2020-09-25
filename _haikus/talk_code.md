@@ -2,7 +2,7 @@
 layout: haiku
 title: talk_code
 author: Vinay Manala
-test: false
+test: true
 ---
 
 Talk & Code <br>
